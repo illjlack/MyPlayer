@@ -118,35 +118,28 @@ if (file.open(QIODevice::ReadOnly | QIODevice::Text)) {
 # 功能介绍
 
 ### 1.双击播放或者单击播放列表或者右键菜单选择播放，添加到列表会到播放列表末尾
+![image-20240617030337173](https://github.com/illjlack/MyPlayer/assets/104678570/35a4af24-2219-431d-bb63-aa35e4632ca2)
 
-![image-20240617030337173](https://p.ananas.chaoxing.com/star3/origin/95ffc6749289121b16f3bd871813195b.png)
-
-![image-20240617030409198](https://p.ananas.chaoxing.com/star3/origin/483176fd0c83763fd4c46bf6f19c03d3.png)
+![image-20240617030409198](https://github.com/illjlack/MyPlayer/assets/104678570/c55444f8-526f-4c4a-bf75-11adb271435a)
 
 ### 2.本地导入，直接导入mp3或者wav,自动解析时间，和json导入，json导入的格式和git上的一致
+![image-20240617030647117](https://github.com/illjlack/MyPlayer/assets/104678570/48828d8a-d82f-4c2f-b5d2-e92476febeae)
+![image-20240617030724590](https://github.com/illjlack/MyPlayer/assets/104678570/e7cb2699-ea0f-4b64-b582-c95eb5a8e4e8)
+![image-20240617030743678](https://github.com/illjlack/MyPlayer/assets/104678570/88aff3e8-aa10-471d-b092-19547fed9e66)
 
-![image-20240617030647117](https://p.ananas.chaoxing.com/star3/origin/06b053176b8b18878cec1dde9f625292.png)
-
-![image-20240617030724590](https://p.ananas.chaoxing.com/star3/origin/6c77b6fd459e03e1662ebef7f11bc20e.png)
-
-![image-20240617030743678](https://p.ananas.chaoxing.com/star3/origin/bc4c36688d11607c7118b82d8b58fa9a.png)
 
 ### 3.歌曲详细页，歌词实时播放，背景为模糊的专辑图（点击专辑图片或者词）
-
-![image-20240617030932056](https://p.ananas.chaoxing.com/star3/origin/9a13503879a6613f1a5c7d3204bb17f6.png)
+![image-20240617030829600](https://github.com/illjlack/MyPlayer/assets/104678570/eb230686-badc-4f9f-8597-8e74cb4ae4f8)
+![image-20240617030932056](https://github.com/illjlack/MyPlayer/assets/104678570/33b8d28b-5e02-4ac9-bf6d-ce7e6ac22383)
 
 ### 4.最小化托盘，通过进程监听保证计算机上一个实例，再打开.exe会唤醒最小化的实例
-
-![image-20240617030907107](https://p.ananas.chaoxing.com/star3/origin/d2e72902083464944174de7664e642d6.png)
+![image-20240617030907107](https://github.com/illjlack/MyPlayer/assets/104678570/17b560f6-fbd7-4976-87d8-a4d4bcb935d3)
 
 ### 5.查看播放列表，可以选择顺序，随机，循环，单曲循环
-
-![image-20240617031005258](https://p.ananas.chaoxing.com/star3/origin/88cc4569390a97ec7055dd5dcae2d704.png)
+![image-20240617031005258](https://github.com/illjlack/MyPlayer/assets/104678570/447a5d46-3b92-4e14-a664-2d385d4680f3)
 
 ### 6.喜爱，喜爱有列表，记录保存在数据库
-
-![image-20240617031052037](https://p.ananas.chaoxing.com/star3/origin/0522629ceedd644f75860ea86e09d462.png)
-
+![image-20240617031052037](https://github.com/illjlack/MyPlayer/assets/104678570/0e834208-6e6a-42cd-aa70-5f6ac2ecac32)
 
 
 
