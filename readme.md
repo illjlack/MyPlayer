@@ -1,6 +1,5 @@
 ## Model
-
-![image-20240617040044056](https://p.ananas.chaoxing.com/star3/origin/23fdfb2c34680c874420e0ac614c10c5.png)
+![Model](https://github.com/illjlack/MyPlayer/assets/104678570/e74a6b1e-90af-4c20-9726-5a23fc21b5ec)
 
 **CacheDownloader（缓存器）**:
 
@@ -28,8 +27,7 @@
 - 与`MusicPlayer`和`LyricAnalyzer`组件交互，确保音乐播放时能够正确显示歌词并进行实时更新。
 
 ## View
-
-![image-20240617040443310](https://p.ananas.chaoxing.com/star3/origin/7cfc6917eebd9926f0548c99c6328803.png)
+![View](https://github.com/illjlack/MyPlayer/assets/104678570/6d4b2341-506d-4b0a-86f6-4c646c3d99a3)
 
 **MainWidget**:
 
@@ -64,10 +62,7 @@
 - 与`BottomWidget`交互，提供当前播放状态的详细信息。
 
 ## 主要交互
-
-![image-20240617040610180](https://p.ananas.chaoxing.com/star3/origin/b8586a50d24e9a35eb2f74ca948074a0.png)
-
-
+![主要交互](https://github.com/illjlack/MyPlayer/assets/104678570/8d6eda91-c8d5-47ed-a6ab-c7564eb60c6a)
 
 # 遇到的问题和解决
 
