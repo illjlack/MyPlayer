@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/BottomPlay/currentList.png</file>
+        <file>images/BottomPlay/high_volume.png</file>
+        <file>images/BottomPlay/low_volume.png</file>
+        <file>images/BottomPlay/lyric.png</file>
+        <file>images/BottomPlay/mute.png</file>
+        <file>images/BottomPlay/next.png</file>
+        <file>images/BottomPlay/pause.png</file>
+        <file>images/BottomPlay/play.png</file>
+        <file>images/BottomPlay/previous.png</file>
+        <file>images/BottomPlay/sequence.png</file>
+        <file>images/BottomPlay/volumeHandle.png</file>
+        <file>images/SongInfo/disk.png</file>
+        <file>images/SongInfo/love.png</file>
+        <file>images/SongInfo/love1.png</file>
+        <file>images/BottomPlay/random.png</file>
+        <file>images/BottomPlay/single_loop.png</file>
+        <file>images/add_icon.png</file>
+        <file>images/play_icon.png</file>
+        <file>images/like_icon.png</file>
+        <file>images/liked_icon.png</file>
+        <file>images/tray_icon.png</file>
+        <file>images/app_icon.png</file>
+        <file>images/default_album_art.png</file>
+        <file>images/BottomPlay/loop.png</file>
+        <file>images/BottomPlay/slider_icon.png</file>
+    </qresource>
+</RCC>

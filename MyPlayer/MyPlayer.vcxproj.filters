@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>qrc;rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Model">
+      <UniqueIdentifier>{5c2dc442-b27b-4217-98ef-957522dce087}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\View">
+      <UniqueIdentifier>{f1d964ab-0aa6-4e9a-a5bb-25a8ba228004}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\View\components">
+      <UniqueIdentifier>{b42e38b6-fc10-461c-b05e-a85915869ed3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\View">
+      <UniqueIdentifier>{b03462b1-99a0-494f-aecf-5b679bb87ce9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Model">
+      <UniqueIdentifier>{a006673b-0170-47c3-835b-10b7154c5b1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Model\Data">
+      <UniqueIdentifier>{02256400-c772-4ea9-8799-a4ae7047f10a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Delegate">
+      <UniqueIdentifier>{e0a076e1-ea9b-442a-9f8e-56b2d1e0a5e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Delegate">
+      <UniqueIdentifier>{552f45b2-d4d0-497e-a4c0-e66a398748c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Model\Data">
+      <UniqueIdentifier>{2998b008-ff51-41f9-9045-003d7c5bfd25}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BottomWidget.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="MainWidget.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="MiddleWidget.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="MiddleWidgetLeftList.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="MiddleWidgetRightStack.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaySongInfoWidget.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="LyricAnalyzer.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicPlayerList.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicLoader.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicListManager.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayListWidget.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionFileWidget.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicListItemDelegate.cpp">
+      <Filter>Source Files\Delegate</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicPlayListItemDelegate.cpp">
+      <Filter>Source Files\Delegate</Filter>
+    </ClCompile>
+    <ClCompile Include="CommentEnum.cpp">
+      <Filter>Source Files\Model\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicPlayer.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="CacheDownloader.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicPlayerWidget.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="MiddleWidgetRightBase.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicInfoManager.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="images.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="MainWidget.h">
+      <Filter>Header Files\View</Filter>
+    </QtMoc>
+    <QtMoc Include="BottomWidget.h">
+      <Filter>Header Files\View</Filter>
+    </QtMoc>
+    <QtMoc Include="MiddleWidget.h">
+      <Filter>Header Files\View</Filter>
+    </QtMoc>
+    <QtMoc Include="MiddleWidgetLeftList.h">
+      <Filter>Header Files\View</Filter>
+    </QtMoc>
+    <QtMoc Include="MiddleWidgetRightStack.h">
+      <Filter>Header Files\View</Filter>
+    </QtMoc>
+    <QtMoc Include="ClickableSlider.h">
+      <Filter>Header Files\View\components</Filter>
+    </QtMoc>
+    <QtMoc Include="MusicPlayerWidget.h">
+      <Filter>Header Files\View</Filter>
+    </QtMoc>
+    <QtMoc Include="ClickLabel.h">
+      <Filter>Header Files\View\components</Filter>
+    </QtMoc>
+    <QtMoc Include="LyricAnalyzer.h">
+      <Filter>Header Files\Model</Filter>
+    </QtMoc>
+    <QtMoc Include="MusicPlayerList.h">
+      <Filter>Header Files\Model</Filter>
+    </QtMoc>
+    <QtMoc Include="MusicLoader.h">
+      <Filter>Header Files\Model</Filter>
+    </QtMoc>
+    <QtMoc Include="MusicListItemDelegate.h">
+      <Filter>Header Files\Delegate</Filter>
+    </QtMoc>
+    <QtMoc Include="PlayListWidget.h">
+      <Filter>Header Files\View</Filter>
+    </QtMoc>
+    <QtMoc Include="MusicListManager.h">
+      <Filter>Header Files\Model</Filter>
+    </QtMoc>
+    <QtMoc Include="MusicInfoManager.h">
+      <Filter>Header Files\Model</Filter>
+    </QtMoc>
+    <QtMoc Include="PlaySongInfoWidget.h">
+      <Filter>Header Files\View</Filter>
+    </QtMoc>
+    <QtMoc Include="MusicPlayListItemDelegate.h">
+      <Filter>Header Files\Delegate</Filter>
+    </QtMoc>
+    <QtMoc Include="MusicPlayer.h">
+      <Filter>Header Files\Model</Filter>
+    </QtMoc>
+    <QtMoc Include="CacheDownloader.h">
+      <Filter>Header Files\Model</Filter>
+    </QtMoc>
+    <QtMoc Include="MiddleWidgetRightBase.h">
+      <Filter>Header Files\View</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SelectionFileWidget.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="CommentEnum.h">
+      <Filter>Header Files\Model\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="MusicInfoData.h">
+      <Filter>Header Files\Model\Data</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

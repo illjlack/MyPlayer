@@ -1,0 +1,53 @@
+# 忽略当前目录下的Debug文件夹
+Debug/
+
+# 忽略当前目录下的Release文件夹
+Release/
+
+# 忽略所有.obj结尾的文件
+*.obj
+
+# 忽略当前目录下的x64文件夹
+x64
+
+# 忽略当前目录下的.vs文件夹
+.vs
+
+# 忽略所有.exe结尾的文件
+*.exe
+
+# !是不忽略的意思，以下是不忽略.sln结尾的文件
+!*.sln  
+
+# 不忽略.vcxproj结尾的文件
+!*.vcxproj
+
+# 不忽略.filters结尾的文件
+!*.filters
+
+# 忽略所有.user结尾的文件
+*.user
+
+# 忽略当前目录下的node_modules文件夹
+node_modules
+
+# 忽略当前目录下的typings文件夹
+typings
+
+# 忽略所有以npm-debug.log开头的文件
+npm-debug.log*
+
+# 忽略所有以yarn-debug.log开头的文件
+yarn-debug.log*
+
+# 忽略所有以yarn-error.log开头的文件
+yarn-error.log*
+
+# 忽略当前目录下的.pnp文件
+.pnp
+
+# 忽略当前目录下的.pnp.js文件
+.pnp.js
+
+# 忽略所有.DS_Store文件（macOS系统文件）
+.DS_Store
